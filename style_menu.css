@@ -1,0 +1,23 @@
+.menu {
+    padding: 30px;
+    text-align: center;
+    right: 50%;
+    left: 50%;
+}
+
+.menu a {
+    background-color: pink;
+    padding: 20px;
+    border: 2px solid white;
+    border-radius: 20px;
+    text-decoration: none;
+    box-shadow: 0px 10px 20px rgb(0, 0, 0);
+    margin-left: 20px;
+    font-weight: 800;
+}
+
+.menu a:hover {
+    background-color: rgb(212, 130, 200);
+    padding: 18px;
+    border: 2px solid white;
+}
